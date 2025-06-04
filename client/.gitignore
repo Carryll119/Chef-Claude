@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Vite output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
