@@ -58,7 +58,7 @@ export default function Main() {
             <form onSubmit={handleAddIngredient} className="add-ingredient-form">
                 <input
                     type="text"
-                    placeholder="e.g. oregano"
+                    placeholder="Type an ingredient, like orange or chicken..."
                     aria-label="Add ingredient"
                     name="ingredient"
                 />
